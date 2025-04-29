@@ -1,0 +1,6 @@
+"build": {
+  "appId": "com.seuprojeto.chamados",
+  "win": {
+    "target": "nsis"
+  }
+}
